@@ -1,2 +1,3 @@
-### Hi there 👋
+# Oh JU YOUNG 👋
 
+## SKILL
