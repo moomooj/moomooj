@@ -4,4 +4,5 @@
 그리고 지금, 직접 서비스를 개발하며 완성하는 제 모습을 보면 옳은 선택이었다고 생각합니다.
 
 
-### 💻My Stack.💻
+### 💻My Stack💻
+<img src="https://img.shields.io/badge/react-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
