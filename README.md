@@ -1,9 +1,9 @@
-## 🍚밥값 하는 개발자 오주영입니다.🍚
+## 🍚밥값 하는 개발자 오주영입니다
 안녕하세요 프론트엔드 개발자 오주영입니다.<br/><br/> 
 개발 공부를 어려운 퍼즐을 하나씩 맞춰가듯 시작하였습니다.<br/> 
 그리고 지금, 직접 서비스를 개발하며 완성하는 제 모습을 보면 옳은 선택이었다고 생각합니다.
 
 
-### 💻My Stack💻
+### 💻My Stack
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
