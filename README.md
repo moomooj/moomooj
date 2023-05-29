@@ -12,5 +12,6 @@ Jflix - https://moomooj.github.io/jflix/#/
 
 
 ### LINK 
-노션링크 - https://topaz-situation-b95.notion.site/MooMooJ-74e1b642f11340e9919fb3def680c913
+Notion - https://topaz-situation-b95.notion.site/MooMooJ-74e1b642f11340e9919fb3def680c913
+OpenKakaoTalk - https://open.kakao.com/o/sTFytvId
 
