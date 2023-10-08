@@ -8,7 +8,7 @@
 
 ### 포트폴리오
 ToDoList - https://moomooj.github.io/todoList/ <br>
-jflix - https://moomooj.github.io/jflix/#/
+jflix - https://moomooj.github.io/jflix/#/ <br>
 제이마켓 - https://jmarket.vercel.app
 
 
