@@ -14,7 +14,7 @@ jflix - https://moomooj.github.io/jflix/#/ <br>
 #### Three.js
 3d Text - https://moomooj.github.io/3d-text/ <br>
 ghost house - https://moomooj.github.io/ghost_house/ <br>
-galaxy-generator - https://moomooj.github.io/galaxy-generator/ <br>
+galaxy generator - https://moomooj.github.io/galaxy-generator/ <br>
 
 
 ### LINK 
