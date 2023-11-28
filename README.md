@@ -9,7 +9,6 @@
 ### 포트폴리오
 ToDoList - https://moomooj.github.io/todoList/ <br>
 jflix - https://moomooj.github.io/jflix/#/ <br>
-제이마켓 - https://jmarket.vercel.app <br>
 
 #### Three.js
 3d Text - https://moomooj.github.io/3d-text/ <br>
@@ -20,4 +19,4 @@ marble race - https://moomooj.github.io/rtf-game/ <br>
 Porsche - 911 https://moomooj.github.io/aquarium/ <br>
 
 
-https://topaz-situation-b95.notion.site/Ju-74e1b642f11340e9919fb3def680c913
+notion - https://topaz-situation-b95.notion.site/Ju-74e1b642f11340e9919fb3def680c913
