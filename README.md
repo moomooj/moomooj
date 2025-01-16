@@ -1,4 +1,4 @@
-##  개발자 오주영입니다
+##  HI Threre! I'm Juyoung Oh
 
 
 ### 💻My Stack
