@@ -8,7 +8,7 @@
 
 ### 포트폴리오
 ToDoList - https://moomooj.github.io/todoList/ <br>
-Devlog - [https://blog-ltt0lr8vk-juyoung-ohs-projects.vercel.app/](Devlog.my) <br>
+Devlog - [Devlog.my](https://www.devlog.my/) <br>
 
 #### Three.js
 3d Text - https://moomooj.github.io/3d-text/ <br>
