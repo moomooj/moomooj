@@ -6,8 +6,7 @@
 
 
 
-### 포트폴리오
-ToDoList - https://moomooj.github.io/todoList/ <br>
+### Project
 Devlog - [Devlog.my](https://www.devlog.my/) <br>
 
 #### Three.js
