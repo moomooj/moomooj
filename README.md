@@ -1,4 +1,4 @@
-##  HI Threre! I'm Juyoung Oh
+##  HI! I'm Juyoung Oh
 
 
 ### 💻My Stack
